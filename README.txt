@@ -4,3 +4,4 @@ crazy branched stuff
 from2
 inserted line
 bye!
+first Edit after branch on master
