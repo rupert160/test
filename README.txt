@@ -6,3 +6,5 @@ inserted line
 bye!
 firstBranchEdit
 secondBranchEdit
+first Edit after branch on master
+second edit on Master
