@@ -5,3 +5,5 @@ from2
 inserted line
 bye!
 more crazy
+first Edit after branch on master
+second edit on Master
