@@ -5,3 +5,4 @@ from2
 inserted line
 bye!
 firstBranchEdit
+secondBranchEdit
